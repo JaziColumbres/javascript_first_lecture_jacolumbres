@@ -1,0 +1,36 @@
+@font-face {
+    font-family: cute;
+    src: url(fonts/Pineapple\ Grass.ttf);
+}
+
+button{
+    background-color: rgb(252, 211, 218);
+    border-color: #b8878f;
+    color: rgb(134, 80, 89);
+    font-family: cute;
+}
+
+input{
+    font-family: cute;
+    border-color: rgb(184, 135, 143);
+    color: rgb(134, 80, 89);
+}
+
+span{
+    font-family: cute;
+    color: rgb(134, 80, 89);
+}
+
+textarea{
+    font-family: cute;
+    border-color: rgb(71, 71, 71);
+    color: rgb(134, 80, 89);
+}
+
+a{
+    position: relative;
+    font-family: cute;
+    color: rgb(134, 80, 89);
+    text-decoration: underline;
+}
+/*i just wanted my page to be pink :D*/
